@@ -1,1 +1,1 @@
-# Global-Warming-HIst-Geo
+This was a project I did in my historical geology project. I was new into learning spss at the time so I used this assignment as an opportunity to get mroe practice in. I don't remember much of what the project actually is.
